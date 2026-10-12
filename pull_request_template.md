@@ -1,6 +1,6 @@
 ## Problem
 
-<!-- One to three sentences: what was wrong or missing, and who it affected. Link the issue, for example "Closes AKO-123". -->
+<!-- One to three sentences: what was wrong or missing, and who it affected. Link the issue, for example "Closes NC-123". -->
 
 ## Solution
 
