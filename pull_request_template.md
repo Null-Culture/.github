@@ -1,6 +1,6 @@
 ## Problem
 
-<!-- One to three sentences: what was wrong or missing, and who it affected. Link the issue, for example "Closes NC-123". -->
+<!-- One to three sentences: what was wrong or missing, and who it affected. Link the issue, for example "Closes <ISSUE-ID>". Replace the placeholder with only the issue this PR completes; never use a real issue ID as an example. -->
 
 ## Solution
 
